@@ -2,7 +2,7 @@
 
 A modern, production-ready template for building full-stack React applications using React Router.
 
-![Open in Web IDE](https://web-ide-theta.vercel.app/)
+[Open in Web IDE](https://web-ide-theta.vercel.app/)
 
 ## Features
 
